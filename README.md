@@ -67,4 +67,4 @@ For any questions or suggestions, please contact us at:
 - Email: support@recipevault.com
 ---
 
-Thank you for using the Culinary Craftbook Hub! Happy cooking!
+Thank you for using the Recipe Vault! Happy cooking!
