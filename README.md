@@ -1,7 +1,7 @@
 
 # Recipe Vault
 
-Welcome to the Culinary Craftbook Hub! This web application allows users to explore, add, and manage their favorite recipes in an intuitive and user-friendly interface. 
+Welcome to the Recipe Vault! This web application allows users to explore, add, and manage their favorite recipes in an intuitive and user-friendly interface. 
 
 ## Table of Contents
 - [Features](#features)
